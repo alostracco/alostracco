@@ -1,4 +1,4 @@
-## Hi there, I'm Aidan 👋
+## Hi, I'm Aidan 👋
 
 <!--
 **alostracco/alostracco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a 4th-year Computer Science student at Western University interested in Machine Learning, Data Science, and Software Engineering. I'm passionate about developing innovative solutions and constantly learning new technologies.
+### Bio
+High-achieving Computer Science student (Western University, 4th year) | Passionate about Machine Learning, Data Science, and Software Engineering.
 
 ### 🛠️ Skills
 Languages:
@@ -57,10 +58,32 @@ Tools:
 ### 📈 Projects
 - [Chuckle Challenge](https://github.com/alostracco/Chuckle-Challenge): Website challenges users not to smile while watching funny videos, tracking their stats using facial recognition.
 - [Algorithm Visualizer](https://github.com/alostracco/Algorithm-Visualizer): Educational website that visualizes popular sorting algorithms and pathfinding algorithms.
+- [ASL Fingerspelling Recognition](https://github.com/alostracco/ASL-Fingerspelling-Recognition): This project focuses on real-time American Sign Language (ASL) fingerspelling recognition.
 
 ### 💼 Experience
 - **Data Quality Engineering Intern, Hammond Manufacturing Co. Ltd.**
 - **Private Equity Analyst Intern, Ramsey Lake Partners**
+
+### 🏈 Hobbies & 📖 Interests
+**I like to play:**
+
+Ice Hockey
+• Football
+• Chess
+
+**I like to learn about:**
+
+Real Estate Investing
+• Health & Longevity
+• Finance
+• Neuroscience
+• Politics
+
+**I like to eat:**
+
+Italian Food
+• Burritos 
+• Chicken Shawarma
 
 ### 📫 Contact
 - **LinkedIn**: [Aidan LoStracco](https://www.linkedin.com/in/aidan-lostracco-1b815a222/)
