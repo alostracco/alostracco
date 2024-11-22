@@ -65,13 +65,13 @@ Tools:
 - **Private Equity Analyst Intern, Ramsey Lake Partners**
 
 ### 🏈 Hobbies & 📖 Interests
-**I like to play:**
+**I enjoy playing:**
 
 Ice Hockey
 • Football
 • Chess
 
-**I like to learn about:**
+**I enjoy learning about:**
 
 Real Estate Investing
 • Health & Longevity
@@ -79,7 +79,7 @@ Real Estate Investing
 • Neuroscience
 • Politics
 
-**I like to eat:**
+**I enjoy eating:**
 
 Italian Food
 • Burritos 
