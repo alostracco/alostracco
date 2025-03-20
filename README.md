@@ -64,7 +64,7 @@ Tools:
 - [Financial Fraud Detection](https://github.com/alostracco/Financial-Fraud-Detection): Financial fraud detection system using machine learning techniques with the help of PostgreSQL and Apache MADlib.
 
 ### 💼 Experience
-- **Data Quality Engineering Intern, Hammond Manufacturing Co. Ltd.**
+- **Data Engineering Intern, Hammond Manufacturing Co. Ltd.**
 - **Private Equity Analyst Intern, Ramsey Lake Partners**
 
 ### 🏈 Hobbies & 📖 Interests
