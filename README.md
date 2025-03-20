@@ -56,9 +56,12 @@ Tools:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
 ### 📈 Projects
+- [Human Activity Recognition](https://github.com/alostracco/Human-Activity-Recognition): Compares RNN and LSTM models for Human Activity Recognition based on time-series data from wearable accelerometer sensors.
 - [Chuckle Challenge](https://github.com/alostracco/Chuckle-Challenge): Website challenges users not to smile while watching funny videos, tracking their stats using facial recognition.
 - [Algorithm Visualizer](https://github.com/alostracco/Algorithm-Visualizer): Educational website that visualizes popular sorting algorithms and pathfinding algorithms.
+- [Financial Narrative Genome](https://github.com/alostracco/Financial-Narrative-Genome): Aims to go deeper than basic sentiment analysis by using LLMs to extract and visualize the evolving themes, relationships, and emotions within financial texts of a company.
 - [ASL Fingerspelling Recognition](https://github.com/alostracco/ASL-Fingerspelling-Recognition): This project focuses on real-time American Sign Language (ASL) fingerspelling recognition.
+- [Financial Fraud Detection](https://github.com/alostracco/Financial-Fraud-Detection): Financial fraud detection system using machine learning techniques with the help of PostgreSQL and Apache MADlib
 
 ### 💼 Experience
 - **Data Quality Engineering Intern, Hammond Manufacturing Co. Ltd.**
