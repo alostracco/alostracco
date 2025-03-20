@@ -61,7 +61,7 @@ Tools:
 - [Algorithm Visualizer](https://github.com/alostracco/Algorithm-Visualizer): Educational website that visualizes popular sorting algorithms and pathfinding algorithms.
 - [Financial Narrative Genome](https://github.com/alostracco/Financial-Narrative-Genome): Aims to go deeper than basic sentiment analysis by using LLMs to extract and visualize the evolving themes, relationships, and emotions within financial texts of a company.
 - [ASL Fingerspelling Recognition](https://github.com/alostracco/ASL-Fingerspelling-Recognition): This project focuses on real-time American Sign Language (ASL) fingerspelling recognition.
-- [Financial Fraud Detection](https://github.com/alostracco/Financial-Fraud-Detection): Financial fraud detection system using machine learning techniques with the help of PostgreSQL and Apache MADlib
+- [Financial Fraud Detection](https://github.com/alostracco/Financial-Fraud-Detection): Financial fraud detection system using machine learning techniques with the help of PostgreSQL and Apache MADlib.
 
 ### 💼 Experience
 - **Data Quality Engineering Intern, Hammond Manufacturing Co. Ltd.**
