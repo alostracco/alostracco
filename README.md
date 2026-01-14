@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Bio
-High-achieving Computer Science student (Western University, 4th year) | Passionate about Machine Learning, Data Science, and Software Engineering.
+MSc in CS+AI student at Univeristy of Guelph | Passionate about Machine Learning, Data Science, and AI Safety.
 
 ### 🛠️ Skills
 Languages:
